@@ -38,7 +38,8 @@ Exploring DevOps concepts and tools to build a strong foundation in cloud and au
 ## 🎓 Certifications
 
 - AWS Certified Cloud Practitioner  
-- Linux Certification  
+- Linux Certification
+- Docker Certification (KodeKloud)
 
 ---
 
