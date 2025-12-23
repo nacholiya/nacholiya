@@ -2,8 +2,7 @@
 
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?logo=amazonaws&style=flat)](https://www.credly.com/badges/6cd32bf6-c4c9-40a7-9326-8bf0f3e87a5a/public_url)
 [![Linux](https://img.shields.io/badge/Linux-Certified-black?logo=linux&style=flat)](https://www.credly.com/badges/df522e4d-604c-41d4-94a7-b3f1ed4a7b9e/public_url)
-[![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker&style=flat)](https://hub.docker.com/u/nacholiya)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes&style=flat)](https://kubernetes.io/)
+[![Docker Certification](https://img.shields.io/badge/Docker-Certified-blue?logo=docker&style=flat)](https://learn.kodekloud.com/user/certificate/eae53161-880d-4ed3-bd0e-6f75a38c4ad1)
 
 ### Aspiring DevOps Engineer | Student
 
