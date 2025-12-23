@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi 👋, I'm Nikhil Acholiya
 
-<!--
-**nacholiya/nacholiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?logo=amazonaws&style=flat)](https://www.credly.com/badges/6cd32bf6-c4c9-40a7-9326-8bf0f3e87a5a/public_url)
+[![Linux](https://img.shields.io/badge/Linux-Certified-black?logo=linux&style=flat)](https://www.credly.com/badges/df522e4d-604c-41d4-94a7-b3f1ed4a7b9e/public_url)
+[![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker&style=flat)](https://hub.docker.com/u/nacholiya)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes&style=flat)](https://kubernetes.io/)
 
-Here are some ideas to get you started:
+### Aspiring DevOps Engineer | Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ **AWS Certified Cloud Practitioner**  
+🐧 **Linux Certified**  
+🐳 **Docker**  
+☸️ **Kubernetes**
+
+Focused on cloud infrastructure, automation, and CI/CD.  
+Exploring DevOps concepts and tools to build a strong foundation in cloud and automation.
+
+---
+
+## 🛠️ Tech Stack
+
+- **OS & Scripting:** Linux, Bash, Python  
+- **Version Control:** Git, GitHub  
+- **Containers & Orchestration:** Docker, Kubernetes  
+- **CI/CD:** Jenkins  
+- **Cloud & IaC:** AWS, Terraform  
+
+---
+
+## 📌 Projects
+
+- **Dockerized Application** – Containerized a sample application using Docker with an optimized Dockerfile  
+- **Jenkins CI/CD Pipeline** – Automated build, test, and deployment workflows using Jenkins  
+- **Kubernetes Deployment** – Deployed containerized applications on Kubernetes using manifests  
+- **Terraform AWS Infrastructure** – Provisioned AWS resources using Infrastructure as Code (Terraform)  
+
+---
+
+## 🎓 Certifications
+
+- AWS Certified Cloud Practitioner  
+- Linux Certification  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nacholiya&show_icons=true&hide_title=true&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacholiya&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/nikhil-acholiya  
+- 🐳 DockerHub: https://hub.docker.com/u/nacholiya  
+- 📧 Email: nacholiya@gmail.com
