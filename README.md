@@ -21,8 +21,9 @@ Exploring DevOps concepts and tools to build a strong foundation in cloud and au
 - **OS & Scripting:** Linux, Bash, Python  
 - **Version Control:** Git, GitHub  
 - **Containers & Orchestration:** Docker, Kubernetes  
-- **CI/CD:** Jenkins  
-- **Cloud & IaC:** AWS, Terraform  
+- **CI/CD:** Jenkins, GitHub Actions  
+- **Cloud & IaC:** AWS, Terraform
+- **Monitoring:** ELK stack
 
 ---
 
