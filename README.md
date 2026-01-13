@@ -1,4 +1,6 @@
 # Hi 👋, I'm Nikhil Acholiya
+![Profile Views](https://komarev.com/ghpvc/?username=nacholiya&color=blue)
+
 
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?logo=amazonaws&style=flat)](https://www.credly.com/badges/6cd32bf6-c4c9-40a7-9326-8bf0f3e87a5a/public_url)
 [![Linux](https://img.shields.io/badge/Linux-Certified-black?logo=linux&style=flat)](https://www.credly.com/badges/df522e4d-604c-41d4-94a7-b3f1ed4a7b9e/public_url)
@@ -53,6 +55,7 @@ Exploring DevOps concepts and tools to build a strong foundation in cloud and au
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacholiya&layout=compact&hide_border=true" />
 </p>
+
 
 ---
 
