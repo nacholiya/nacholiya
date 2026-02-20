@@ -6,15 +6,13 @@
 [![Linux](https://img.shields.io/badge/Linux-Certified-black?logo=linux&style=flat)](https://www.credly.com/badges/df522e4d-604c-41d4-94a7-b3f1ed4a7b9e/public_url)
 [![Docker Certification](https://img.shields.io/badge/Docker-Certified-blue?logo=docker&style=flat)](https://learn.kodekloud.com/user/certificate/eae53161-880d-4ed3-bd0e-6f75a38c4ad1)
 
-### Aspiring DevOps Engineer | Student
+### Aspiring DevOps Engineer | Cloud Enthusiast | Student
 
-☁️ **AWS Certified Cloud Practitioner**  
-🐧 **Linux Certified**  
-🐳 **Docker**  
-☸️ **Kubernetes**
+I’m passionate about building reliable and scalable cloud infrastructure, automating workflows, and exploring modern DevOps practices. With hands-on experience in AWS, Docker, Kubernetes, Linux, and CI/CD pipelines, I love solving real-world problems by combining code, automation, and cloud technologies.
 
-Focused on cloud infrastructure, automation, and CI/CD.  
-Exploring DevOps concepts and tools to build a strong foundation in cloud and automation.
+Currently focused on enhancing my skills in cloud architecture, container orchestration, and infrastructure automation, while contributing to open-source projects and learning from the global developer community.
+
+Let’s connect, collaborate, and build something impactful! 🚀
 
 ---
 
@@ -54,6 +52,7 @@ Exploring DevOps concepts and tools to build a strong foundation in cloud and au
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/nikhil-acholiya  
-- 🐳 DockerHub: https://hub.docker.com/u/nacholiya  
-- 📧 Email: nacholiya@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil%20Acholiya-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-acholiya) 
+- [![Docker](https://img.shields.io/badge/Docker-Nacholiya-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/u/nacholiya)
+- [![GitHub](https://img.shields.io/badge/GitHub-nacholiya-black?logo=github&logoColor=white)](https://github.com/nacholiya)
+- [![Email](https://img.shields.io/badge/Email-nacholiya@gmail.com-c14438?logo=gmail&logoColor=white)](mailto:nacholiya@gmail.com)
