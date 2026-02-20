@@ -20,21 +20,13 @@ Exploring DevOps concepts and tools to build a strong foundation in cloud and au
 
 ## 🛠️ Tech Stack
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 - **OS & Scripting:** Linux, Bash, Python  
 - **Version Control:** Git, GitHub  
 - **Containers & Orchestration:** Docker, Kubernetes  
 - **CI/CD:** Jenkins, GitHub Actions  
 - **Cloud & IaC:** AWS, Terraform
 - **Monitoring:** ELK stack
-
----
-
-## 📌 Projects
-
-- **Dockerized Application** – Containerized a sample application using Docker with an optimized Dockerfile  
-- **Jenkins CI/CD Pipeline** – Automated build, test, and deployment workflows using Jenkins  
-- **Kubernetes Deployment** – Deployed containerized applications on Kubernetes using manifests  
-- **Terraform AWS Infrastructure** – Provisioned AWS resources using Infrastructure as Code (Terraform)  
 
 ---
 
@@ -48,14 +40,15 @@ Exploring DevOps concepts and tools to build a strong foundation in cloud and au
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nacholiya&show_icons=true&hide_title=true&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=nacholiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nacholiya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nacholiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacholiya&layout=compact&hide_border=true" />
-</p>
+---
 
+## 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=nacholiya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
