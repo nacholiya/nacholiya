@@ -1,11 +1,9 @@
 # Hi 👋, I'm Nikhil Acholiya
-![Profile Views](https://komarev.com/ghpvc/?username=nacholiya&color=blue)
 
-
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?logo=amazonaws&style=flat)](https://www.credly.com/badges/6cd32bf6-c4c9-40a7-9326-8bf0f3e87a5a/public_url)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?logo=amazonaws&style=for-the-badge)](https://www.credly.com/badges/6cd32bf6-c4c9-40a7-9326-8bf0f3e87a5a/public_url)
 [![Terraform](https://img.shields.io/badge/Terraform-Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.credly.com/badges/01d3cbb3-b2ba-4432-8e65-e989f6f0efd8/public_url)
-[![Linux](https://img.shields.io/badge/Linux-Certified-black?logo=linux&style=flat)](https://www.credly.com/badges/df522e4d-604c-41d4-94a7-b3f1ed4a7b9e/public_url)
-[![Docker Certification](https://img.shields.io/badge/Docker-Certified-blue?logo=docker&style=flat)](https://learn.kodekloud.com/user/certificate/eae53161-880d-4ed3-bd0e-6f75a38c4ad1)
+[![Linux](https://img.shields.io/badge/Linux-Certified-black?logo=linux&style=for-the-badge)](https://www.credly.com/badges/df522e4d-604c-41d4-94a7-b3f1ed4a7b9e/public_url)
+[![Docker Certification](https://img.shields.io/badge/Docker-Certified-blue?logo=docker&style=for-the-badge)](https://learn.kodekloud.com/user/certificate/eae53161-880d-4ed3-bd0e-6f75a38c4ad1)
 
 ### Aspiring DevOps Engineer | Cloud Enthusiast | Student
 
